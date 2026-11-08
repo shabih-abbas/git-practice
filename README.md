@@ -1,2 +1,2 @@
 # Git Practice
-Learning the basic git commands
+Revising the basic git commands (story of my life as a CS grad)
